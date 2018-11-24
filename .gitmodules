@@ -1,0 +1,6 @@
+[submodule "mods/mods/moremesecons"]
+	path = mods/mods/moremesecons
+	url = git://github.com/minetest-mods/MoreMesecons
+[submodule "mods/mods/farming"]
+	path = mods/mods/farming
+	url = https://notabug.org/TenPlus1/Farming
